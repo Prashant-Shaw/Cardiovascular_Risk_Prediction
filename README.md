@@ -1,2 +1,6 @@
-# Cardiovascular_Risk_Prediction
-This repository contains the cardiovascular risk prediction based on the dataset dataset from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts.
+# Cardiovascular Risk Prediction
+Project Name - Cardiovascular Risk Prediction
+
+Project Status - WIP
+
+Language Used - Python with Pandas, Numpy, Matplotlib, Seaborn, geopy, SKlearn, XGBoost and SHAP libraries
